@@ -12,12 +12,37 @@ Após o projeto, foi passado 5 desafios:
 
 Os desafios se encontram nas pastas que começam com "desafio", e são separados pela numeração, desafio1, desafio2, e assim por diante
 
+# Índice
+=================
+<!--ts-->
+   * [Titulo](#imersaodev-calculadora-de-media)
+   * [Descrição](#descrição)
+   * [Índice](#índice)
+   * [Alguns Exemplos](#alguns-exemplos)
+   * [Tecnologias 🛠](#tecnologias-usadas)
+   * [Agradecimentos](#agradecimentos)
+   * [Autor](#autor)
+   <!--te-->
+
+## Alguns Exemplos
+Alguns desafios diferem apenas nas linhas de codigo, por isso nem todos os desafios aparecem aqui!
+- Projeto incial
+![image](https://user-images.githubusercontent.com/99970279/191165418-ada037b0-2a82-451e-bf72-31bbda3dc46f.png)
+
+- Desafio 1
+![image](https://user-images.githubusercontent.com/99970279/191165322-ea8385b3-0fdf-49d5-9306-b58c88524b6c.png)
+
+- Desafio 2
+![image](https://user-images.githubusercontent.com/99970279/191165514-29852cf3-34cc-42f4-8b5e-f4529af7dee1.png)
+
+- Desafio 4
+![image](https://user-images.githubusercontent.com/99970279/191165672-384d0589-2ada-4939-9a6b-d9fa7d92f2d6.png)
+
 ## Tecnologias usadas:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [CodePen](https://codepen.io)
 - [Persona 5 Dialogue Generator by Chris Kopcow](https://github.com/opennoise1/p5-dialogue-generator)
-
 
 ## Agradecimentos
 Agradeço a Rafaella Ballerini, Guilherme Lima, Paulo Silveira e a Alura por todo conhecimento passado
